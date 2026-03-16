@@ -68,11 +68,11 @@
     "lat": 45.42,
     "lng": -75.7,
     "lease_url": null,
-    "market_rate": null,
-    "market_rate_currency": null,
-    "their_rate": null,
-    "submarket": null,
-    "market_vacancy": null
+    "market_rate": "24.43",
+    "market_rate_currency": "$",
+    "their_rate": "23.00",
+    "submarket": "Tunney's Pasture",
+    "market_vacancy": "3"
   },
   {
     "name": "Lund",
