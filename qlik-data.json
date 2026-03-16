@@ -582,7 +582,7 @@
     "expiry": "2030-04-30",
     "days_left": 1513,
     "urgency": "green",
-    "location": "Empire State Building, West 34th Street, New York, NY, USA",
+    "location": "Empire State Building, 350 Fifth Ave, New York, NY, USA",
     "country": "United States",
     "region": "Americas",
     "term": "5 years",
@@ -593,10 +593,10 @@
     "lat": 40.75,
     "lng": -73.99,
     "lease_url": null,
-    "market_rate": null,
-    "market_rate_currency": null,
-    "their_rate": null,
-    "submarket": null,
+    "market_rate": "76.98",
+    "market_rate_currency": "$",
+    "their_rate": "67.00",
+    "submarket": "Penn Plaza",
     "market_vacancy": null
   },
   {
