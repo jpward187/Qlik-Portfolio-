@@ -42,10 +42,10 @@
     "updates": [],
     "lat": 40.09,
     "lng": -75.38,
-    "lease_url": null,
+    "lease_url": "https://franklinstreet.sharepoint.com/:b:/r/sites/FSOIAtlanta/Shared%20Documents/Clients/Qlik/Leases/United%20States/Pennsylvania/King%20of%20Prussia/KoP_Office%20Lease%20Agreement_First%20Amendment%206.0_final.docx.pdf?csf=1&web=1&e=gfRCA1",
     "market_rate": null,
-    "market_rate_currency": null,
-    "their_rate": null,
+    "market_rate_currency": "$",
+    "their_rate": "33.88",
     "submarket": null,
     "market_vacancy": null
   },
