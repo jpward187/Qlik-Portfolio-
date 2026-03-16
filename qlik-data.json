@@ -805,26 +805,6 @@
     "lease_url": null
   },
   {
-    "name": "Beijing - Talend (2)",
-    "status": "",
-    "type": "Leased",
-    "sf": 3000,
-    "expiry": "2027-11-30",
-    "days_left": 631,
-    "urgency": "green",
-    "location": "Beijing, China",
-    "country": "China",
-    "region": "APAC",
-    "term": "",
-    "term_notice": null,
-    "term_effective": null,
-    "renewal_notice": null,
-    "updates": [],
-    "lat": 39.93,
-    "lng": 116.42,
-    "lease_url": null
-  },
-  {
     "name": "Mexico City",
     "status": "",
     "type": "Coworking",
