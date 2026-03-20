@@ -779,7 +779,7 @@
     "status": "",
     "type": "Coworking",
     "sf": 500,
-    "expiry": 2026-11-30,
+    "expiry": "2026-11-30",
     "days_left": null,
     "urgency": "gray",
     "location": "15 Moore Street, Canberra ACT, Australia",
