@@ -278,11 +278,11 @@
     "lat": 48.87,
     "lng": 2.22,
     "lease_url": null,
-    "market_rate": null,
-    "market_rate_currency": null,
-    "their_rate": null,
-    "submarket": null,
-    "market_vacancy": null
+    "market_rate": "280",
+    "market_rate_currency": "€",
+    "their_rate": "250",
+    "submarket": " Croissant Ouest",
+    "market_vacancy": "19.9"
   },
   {
     "name": "Munich",
