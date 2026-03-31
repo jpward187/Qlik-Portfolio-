@@ -206,7 +206,7 @@
   },
   {
     "name": "Sao Paulo",
-    "status": "Under Negotiation",
+    "status": "Completed",
     "type": "Leased",
     "sf": 6997,
     "expiry": "2026-07-31",
@@ -221,13 +221,13 @@
     "renewal_notice": null,
     "updates": [
       {
-        "date": "Feb 17, 2026",
-        "note": "In flight w/ Savills. Amendment in hand for 3-year term. With counsel for review."
+        "date": "March 26, 2026",
+        "note": "Renewal amendment signed"
       }
     ],
     "lat": -23.6,
     "lng": -46.69,
-    "lease_url": null,
+    "lease_url": "https://franklinstreet.sharepoint.com/:b:/r/sites/FSOIAtlanta/Shared%20Documents/Clients/Qlik/Leases/Brazil/SaoPauloRenewal_20260326145530171.pdf?csf=1&web=1&e=rw5FLV",
     "market_rate": null,
     "market_rate_currency": null,
     "their_rate": null,
