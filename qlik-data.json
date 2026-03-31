@@ -289,7 +289,7 @@
     "status": "Under Negotiation",
     "type": "Leased",
     "sf": 6500,
-    "expiry": "2026-05-05",
+    "expiry": "2027-01-31",
     "days_left": 57,
     "urgency": "red",
     "location": "Joseph-Wild-Stra\u00dfe 23, Munich, Germany",
@@ -302,7 +302,7 @@
     "updates": [
       {
         "date": "Feb 3, 2026",
-        "note": "1 year extension - Savills working to find alternative options. In-flight w/ Savills."
+        "note": "Extension through 1/2027 - Savills working to find alternative options. In-flight w/ Savills."
       }
     ],
     "lat": 48.14,
@@ -804,7 +804,7 @@
     "status": "",
     "type": "Coworking",
     "sf": 500,
-    "expiry": "2026-04-30",
+    "expiry": "2027-04-30",
     "days_left": 52,
     "urgency": "red",
     "location": "Max Towers, Sector 16B, Noida, Uttar Pradesh, India",
@@ -1159,7 +1159,7 @@
     "status": "",
     "type": "Coworking",
     "sf": 500,
-    "expiry": "2026-03-31",
+    "expiry": "2027-03-31",
     "days_left": 22,
     "urgency": "red",
     "location": "WeWork Yeoksam Station, 142 Teheran-ro, Gangnam-gu, Seoul",
@@ -1168,7 +1168,7 @@
     "term": "",
     "term_notice": null,
     "term_effective": null,
-    "renewal_notice": "2026-02-28",
+    "renewal_notice": "2027-02-28",
     "updates": [],
     "lat": 37.5,
     "lng": 127.04,
