@@ -510,7 +510,7 @@ function urgencyClass(u){return u==='red'?'red':u==='orange'?'orange':u==='green
 
 function statusPillClass(s){
   if(!s||s==='')return 'sp-gray';
-  const m={'Completed':'sp-green','Active':'sp-green','Sublease':'sp-blue','Pending Renewal':'sp-orange','Under Negotiation':'sp-orange','Closing/Terminating':'sp-red'};
+  const m={'Completed':'sp-green','Active':'sp-yellow','Sublease':'sp-blue','Pending Renewal':'sp-orange','Under Negotiation':'sp-orange','Closing/Terminating':'sp-red'};
   return m[s]||'sp-gray';
 }
 
